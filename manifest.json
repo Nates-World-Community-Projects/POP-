@@ -1,0 +1,8 @@
+{
+    "name": "POP!",
+    "description": "Pop is a theme that pops out elements of Discord's UI making them easy to read or just look really cool!",
+    "version": "1.0.0",
+    "author": "Nate's World#2102",
+    "theme": "theme.css",
+    "license": "MIT"
+}
